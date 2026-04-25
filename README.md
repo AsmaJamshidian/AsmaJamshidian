@@ -12,12 +12,12 @@
 - 😄 Pronouns: she/her  
 - ⚡ Fun fact: I talk to computers more than people —at least they get my logic! 😄
 
+![Uploading image.png…]()
 
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmajamshidian&show_icons=true&theme=dark&locale=en&layout=compact" alt="asmajamshidian" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmajamshidian&show_icons=true&theme=dark&locale=en" alt="asmajamshidian" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmajamshidian&theme=dark" alt="asmajamshidian" /></p>
 
