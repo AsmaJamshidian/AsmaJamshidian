@@ -11,8 +11,9 @@
 - 📫 How to reach me: jamshidiana154@gmail.com  
 - 😄 Pronouns: she/her  
 - ⚡ Fun fact: I talk to computers more than people —at least they get my logic! 😄
+  
 
-![Uploading image.png…]()
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmajamshidian&show_icons=true&theme=dark&locale=en" alt="asmajamshidian" /></p>
 
 
 
